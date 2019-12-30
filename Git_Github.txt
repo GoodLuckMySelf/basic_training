@@ -6,3 +6,6 @@ $ git status (cek apa yg sudah dibuat)
 $ git add . (menambahkan folder semua ke branch)
 $ git commit -m "ini test git" ( untuk keterangan)
 $ git push origin dwi (untuk upload)
+
+
+rm -rf .git -> menghapus git didalam folder
