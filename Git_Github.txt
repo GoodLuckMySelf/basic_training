@@ -1,0 +1,8 @@
+$ git init
+$ git checkout -b dwi (new branch)
+ git remote add origin https://github.com/DwiAriefAdityah/E-learning--BAB_USU.g (masuk ke link github)
+git pull origin master (menarik folder dari github)
+$ git status (cek apa yg sudah dibuat)
+$ git add . (menambahkan folder semua ke branch)
+$ git commit -m "ini test git" ( untuk keterangan)
+$ git push origin dwi (untuk upload)
