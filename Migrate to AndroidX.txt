@@ -1,0 +1,10 @@
+1. buka projek flutter anda di Visual Studio Code
+2. klik kanan pada bagian "android" di list file dan folder explorer, pilih "open with android studio"
+3. Tunggu sampai proses sync nya selesai pada console "Build Output"
+4. setelah itu pada bagian menu bar pilih "Refactor -> Migrate to AndroidX"
+5. Centang Backup .zip, dan klik "Migrate"
+6. Tunggu sampai proses migrasi selesai
+7. Selanjutnya pada bagian console "build Output" klik "Do Refactor" sebagai tindakan final melakukan migrasi
+8. Debug Your Project, Finish
+
+Happy Code :)
